@@ -132,10 +132,10 @@ footer .footer_copyright {
 }
 
 .countdown_wrapper .countdown_time {
-    font-size: 70px;
+    font-size: 42px;
     border-right: 1px solid #F44336;
-    margin-right: 14px;
-    padding-right: 49px;
+    margin-right: 10px;
+    padding-right: 30px;
 }
 .countdown_wrapper .countdown_item:last-child .countdown_time{
     border:none;
@@ -151,36 +151,36 @@ footer .footer_copyright {
         VENUE NFO
 ======================*/
 
-.vn_wrapper {
+.cc_wrapper {
     display: flex;
     padding: 170px 0px;
 }
 
-.vn_item {
+.cc_item {
     width:50%;
     color:#ffffff;
     text-align: center;
 }
                       
-.vn_item .vn_outer {
+.cc_item .cc_outer {
     width: 300px;
     border: 2px solid #828282;
     margin: auto;
     padding: 5px;
 }
 
-.vn_item .vn_inner { 
+.cc_item .cc_inner { 
     border: 2px solid #828282;
     position: relative;
     padding: 0px 20px;
     transition: all 500ms ease;
 }
 
-.vn_item .vn_inner:hover {
+.cc_item .cc_inner:hover {
     background: #3e3e3e;
 }
 
-.vn_item .vn_icon_square {
+.cc_item .cc_icon_square {
     width: 100px;
     height: 100px;
     position: absolute;
@@ -191,7 +191,7 @@ footer .footer_copyright {
     left: 100px;
 }
 
-.vn_item .vn_icon {
+.cc_item .cc_icon {
     width: 50px;
     height: 50px;
     background-size: contain !important;
@@ -201,14 +201,14 @@ footer .footer_copyright {
     left: 124px;
 }
 
-.vn_item .vn_title {
+.cc_item .cc_title {
     font-size: 28px;
     margin: 90px 0px 20px 0px;
     border-bottom: 1px solid #5d5d5d;
     padding-bottom: 10px;
 }
 
-.vn_item .vn_desc {
+.cc_item .cc_desc {
     font-size: 30px;
     font-weight: 300;
     margin-bottom: 90px;
