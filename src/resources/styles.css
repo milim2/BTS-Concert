@@ -132,10 +132,10 @@ footer .footer_copyright {
 }
 
 .countdown_wrapper .countdown_time {
-    font-size: 42px;
+    font-size: 70px;
     border-right: 1px solid #F44336;
-    margin-right: 10px;
-    padding-right: 30px;
+    margin-right: 14px;
+    padding-right: 49px;
 }
 .countdown_wrapper .countdown_item:last-child .countdown_time{
     border:none;
@@ -148,7 +148,7 @@ footer .footer_copyright {
 }
 
 /*====================
-        VENUE NFO
+        Concert NFO
 ======================*/
 
 .cc_wrapper {
@@ -223,21 +223,21 @@ footer .footer_copyright {
     text-align: center;
     text-transform: uppercase;
     color:#2c2c2c;
-    font-size: 45px;
+    font-size: 52px;
 }
 
 .highlight_wrapper .highlight_desc {
-    line-height: 28px;
-    font-size: 16px;
+    line-height: 30px;
+    font-size: 18px;
     font-weight: 300;
     border-top: 1px solid #dddddd;
     border-bottom: 1px solid #dddddd;
-    padding: 24px 20px;
+    padding: 30px 0px;
 }
 
 .discount_wrapper {
     display: flex;
-    padding: 30px 0px;
+    padding: 70px 0px;
 }
 
 .discount_wrapper .discount_percentage {
@@ -246,15 +246,15 @@ footer .footer_copyright {
 
 .discount_wrapper .discount_percentage span:nth-child(1) {
     color: #ff4800;
-    font-size: 72px;
+    font-size: 125px;
     font-weight: 400;
     display: block;
-    line-height: 80px;
+    line-height: 120px;
 }
 
 .discount_wrapper .discount_percentage span:nth-child(2) {
     color: #2c2c2c;
-    font-size: 45px;
+    font-size: 50px;
     font-weight: 400;
     display: block;
 }
