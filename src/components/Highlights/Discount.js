@@ -47,7 +47,7 @@ class Discount extends Component {
                 <MyButton 
                     text="Purchase tickets"
                     bck="#ffffff"
-                    link="http://google.com"
+                    link="https://www.vividseats.com/concerts/bts-bangtan-boys-tickets/bts-bangtan-boys-wembley-stadium-6-1-3024780.html#showDetails=VB1989614071&qty=0"
                 />                              
                 </div>
                 </Slide>
