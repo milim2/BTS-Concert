@@ -1,4 +1,4 @@
-# Events
+# BTS Concert
 - React app : no DB
 
 ### install dependencies
